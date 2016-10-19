@@ -12,5 +12,3 @@ To see our documentation please visit: https://gamereviewdocs.herokuapp.com/
 * [MySQL](https://www.mysql.com/)
 * [Knex](http://knexjs.org/)
 * [Material-UI](http://www.material-ui.com/#/)
-* [Travis-CI](https://travis-ci.org/)
-* [Socket.io](http://socket.io/)
