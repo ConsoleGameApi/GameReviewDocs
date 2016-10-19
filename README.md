@@ -1,5 +1,5 @@
 # GameReviewDocs
-To see our documentation please visit: https://gamereviewdocs.herokuapp.com/
+To see the documentation please visit: https://gamereviewdocs.herokuapp.com/
 #### Tools Used:
 
 * [React](https://facebook.github.io/react/)
